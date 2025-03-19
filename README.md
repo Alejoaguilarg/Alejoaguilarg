@@ -1,5 +1,5 @@
 # 💫 Hi there, I'm Alejandro
-I am a software developer focused on backend application development <br>using Java. In my professional career, I have gained experience in developing <br>REST APIs and microservices using Spring Boot, JPA, and Hibernate.<br><br>I am passionate about programming and always seeking new challenges<br> and learning opportunities to improve my technical skills. I consider myself <br>a committed, collaborative individual who is always willing to learn from others.
+I am a software developer specialized in backend development with Java. Throughout my career, I have gained experience building REST APIs and microservices using Spring Boot, JPA, and Hibernate. I am passionate about programming and constantly seeking new challenges and learning opportunities to enhance my technical expertise. A committed and collaborative professional, I value teamwork, knowledge sharing, and continuous growth.
 
 
 ## 🌐 Socials:
